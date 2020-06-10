@@ -117,7 +117,7 @@ data <- data %>%
 
 
 # Stata
-drop var1 == "NA"
+drop if var1 == "NA"
 # R
 data <- data %>%
   dplyr::filter(var1 != "NA")
