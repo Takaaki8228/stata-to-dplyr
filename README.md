@@ -1,4 +1,10 @@
-# Stata to R::dplyr
+# Memorandum: Stata to R::dplyr
+
+## Written by Takaaki Kishida
+## *Last Updated: June 10, 2020*
+
+### **Keywords: R, Stata, dplyr, Data Management, Data Processing**
+### Comments Welcome!
 
 This is the repository for translation from Stata into R::dplyr. 
 
